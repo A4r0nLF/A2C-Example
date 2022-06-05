@@ -6,8 +6,6 @@ from torch.nn.functional import normalize
 from torch import optim
 import matplotlib.pyplot as plt
 
-
-
 from AC import ActorCritic
 
 

@@ -1,11 +1,6 @@
 import torch
 import gym
 import time
-import random
-from torch.nn.functional import normalize
-import numpy as np
-
-from AC import ActorCritic
 
 if __name__ == '__main__':
     #Load trained modell from .pth File
